@@ -225,8 +225,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuildsByMT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildsByMT&layout=compact&theme=tokyonight&hide=html,css&border_radius=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BuildsByMT&show_icons=true&theme=tokyonight&border_radius=8" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildsByMT&layout=compact&theme=tokyonight&hide=html,css&border_radius=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -237,9 +237,9 @@
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- Contribution Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildsByMT&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildsByMT&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -261,7 +261,7 @@
 
   <br/><br/><br/>
 
-  <!-- Profile View Counter Badge at the end -->
+  <!-- Profile View Counter Badge -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=BuildsByMT&label=Total%20Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile View Counter" />
   </p>
