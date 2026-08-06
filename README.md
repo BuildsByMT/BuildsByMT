@@ -225,8 +225,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BuildsByMT&show_icons=true&theme=tokyonight&border_radius=8" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildsByMT&layout=compact&theme=tokyonight&hide=html,css&border_radius=8" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=BuildsByMT&show_icons=true&theme=tokyonight&border_radius=8" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BuildsByMT&layout=compact&theme=tokyonight&hide=html,css&border_radius=8" alt="Top Languages" />
 </div>
 
 <br/>
