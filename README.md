@@ -204,7 +204,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square" />
         <img src="https://img.shields.io/badge/CSS3_Animations-1572B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
       </p>
       <p>Modern responsive personal portfolio showcasing projects, interactive UI transitions, and component-based architecture.</p>
       <ul>
@@ -232,7 +232,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BuildsByMT&theme=tokyonight&border_radius=8" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BuildsByMT&theme=tokyonight&border_radius=8&v=2" alt="Streak Stats" />
 </div>
 
 <br/>
