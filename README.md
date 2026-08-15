@@ -232,7 +232,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuildsByMT&theme=tokyonight&border_radius=8" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=BuildsByMT&theme=tokyonight&border_radius=8" alt="Streak Stats" />
 </div>
 
 <br/>
